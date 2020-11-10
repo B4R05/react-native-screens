@@ -4,7 +4,7 @@
 
 - Clone the repository / unzip the file into your local machine
 
-- From your terminal `cd` into `screens`
+- From your terminal `cd` into `screens` then `npm install`
 
 - Run `npm run ios` for ios
 
